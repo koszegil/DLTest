@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Devoralime": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
